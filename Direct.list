@@ -1,5 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+DOMAIN-SUFFIX,npln.srv.nintendo.net
+DOMAIN-SUFFIX,n.n.srv.nintendo.net
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
