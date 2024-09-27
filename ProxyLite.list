@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,aca.best
 DOMAIN-SUFFIX,12345.al
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
