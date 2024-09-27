@@ -11,8 +11,6 @@ DOMAIN,alt8-mtalk.google.com
 DOMAIN,mtalk.google.com
 
 #微软
-DOMAIN-SUFFIX,npln.srv.nintendo.net
-DOMAIN-SUFFIX,n.n.srv.nintendo.net
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
