@@ -80,7 +80,6 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 #emby
-DOMAIN-SUFFIX,otto.pilipili.club
 
 # 360
 DOMAIN-SUFFIX,360.com
