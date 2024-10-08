@@ -10,8 +10,8 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 DOMAIN,mtalk.google.com
 
-DOMAIN-SUFFIX,adobe.com,REJECT
-DOMAIN-SUFFIX,adobe.io,REJECT
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
 
 #emby
 DOMAIN-SUFFIX,otto.pilipili.club
