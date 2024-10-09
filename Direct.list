@@ -1,17 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN-KEYWORD,xn--ngstr-lra8j.com
-
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,googleapis.cn
-DOMAIN,alt1-mtalk.google.com
-DOMAIN,alt2-mtalk.google.com
-DOMAIN,alt3-mtalk.google.com
-DOMAIN,alt4-mtalk.google.com
-DOMAIN,alt5-mtalk.google.com
-DOMAIN,alt6-mtalk.google.com
-DOMAIN,alt7-mtalk.google.com
-DOMAIN,alt8-mtalk.google.com
 DOMAIN,mtalk.google.com
-DOMAIN-KEYWORD,adobe
 
 #emby
 DOMAIN-SUFFIX,otto.pilipili.club
