@@ -19,11 +19,6 @@ DOMAIN-SUFFIX,skydrive.wns.windows.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
 
 # MyList
 # 域名后缀匹配
@@ -32,7 +27,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
+
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
