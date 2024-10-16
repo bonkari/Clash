@@ -2,9 +2,7 @@
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bingapis.com
+
 #GitHub
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,atom.io
