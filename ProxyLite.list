@@ -2,7 +2,8 @@
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,browserleaks.com
-
+DOMAIN-SUFFIX,npln.srv.nintendo.net
+DOMAIN-SUFFIX,n.n.srv.nintendo.net
 #GitHub
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,atom.io
