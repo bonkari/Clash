@@ -1,6 +1,6 @@
 8# 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN, xn--jzup7s.com
-
+DOMAIN,xn--jzup7s.com
+DOMAIN,pilipiliultra.com
 DOMAIN-SUFFIX,makima.online
 #google
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,hao123.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,46.38.255.159/32,no-resolve
 IP-CIDR,108.177.125.188/32,no-resolve
 IP-CIDR,142.250.10.188/32,no-resolve
 IP-CIDR,142.250.31.188/32,no-resolve
